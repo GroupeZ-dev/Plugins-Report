@@ -58,6 +58,7 @@ body:
         - "zTournament"
         - "zVaults"
         - "zVoteParty"
+        - "SuperiorSkyBlock-zMenu"
   - type: dropdown
     id: server_version
     attributes:
