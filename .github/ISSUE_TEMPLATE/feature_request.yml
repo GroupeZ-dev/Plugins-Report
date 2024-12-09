@@ -46,6 +46,7 @@ body:
         - "zTournament"
         - "zVaults"
         - "zVoteParty"
+        - "SuperiorSkyBlock-zMenu"        
   - type: input
     id: discord_tag
     attributes:
